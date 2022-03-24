@@ -1,0 +1,30 @@
+{
+  "name": "litebase-rn-sdk",
+  "version": "1.0.0",
+  "description": "Litebase SDK for ReactNative",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgolcu00/litebase-rn-sdk.git"
+  },
+  "keywords": [
+    "ReactNative",
+    "LiteBase",
+    "RealTimeDataBase",
+    "PushNotification"
+  ],
+  "author": "mgolcu00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgolcu00/litebase-rn-sdk/issues"
+  },
+  "homepage": "https://github.com/mgolcu00/litebase-rn-sdk#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "react-native-sse": "^1.1.0",
+    "react-native-uuid": "^2.0.1"
+  }
+}
